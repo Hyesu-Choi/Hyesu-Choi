@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/2jun0/github-pokemon-collection">
-  <img src="https://gitpokecol.org/pokemons/{HyesuChoi}?face=left" alt="{HyesuChoi}'s GitHub Pokemon Collection"/>
+  <img src="https://gitpokecol.org/pokemons/{Hyesu-Choi}?face=left" alt="{Hyesu-Choi}'s GitHub Pokemon Collection"/>
 </a>
