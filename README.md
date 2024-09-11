@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Hyesu-Choi}?pet-id=1" width="1000" height="300"/>
+<a href="https://github.com/2jun0/github-pokemon-collection">
+  <img src="https://gitpokecol.org/pokemons/{Hyesu-Choi}?face=left" alt="{Hyesu-Choi}'s GitHub Pokemon Collection"/>
 </a>
