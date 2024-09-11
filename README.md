@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/2jun0/github-pokemon-collection">
     <img src="https://gitpokecol.org/pokemons/Hyesu-Choi?face=left&width=300&height=250&background=none" alt="Hyesu-Choi's GitHub Pokemon Collection"/>
 </a>
+
+<div align=center>
+	<a href="https://github.com/devxb/gitanimals">
+  		<img src="https://render.gitanimals.org/farms/Hyesu-Choi"/>
+	</a>
+</div>
